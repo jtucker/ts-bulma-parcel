@@ -1,6 +1,6 @@
 # Minimal TypeScript + Bulma + Parcel Project
 
-Just a simple template for getting up and working with [TypeScript](https://typescriptlang.com) + [Bulma](https://bulma.io) + [Parcel](https://parceljs.org). 
+Just a simple template for getting up and working with [TypeScript](https://www.typescriptlang.org) + [Bulma](https://bulma.io) + [Parcel](https://parceljs.org). 
 
 Really that's all it is. 
 
